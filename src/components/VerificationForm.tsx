@@ -82,7 +82,7 @@ export const VerificationForm = () => {
             
             <div className="flex justify-between py-2 border-b border-gray-700 text-sm">
               <span className="text-gray-400">Importer Name</span>
-              <span className="text-white">Green Solars and Tube well Services</span>
+              <span className="text-white">IRI Traders</span>
             </div>
             
             <div className="flex justify-between py-2 border-b border-gray-700 text-sm">
